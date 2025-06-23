@@ -4,7 +4,7 @@ title: "Day 2 – Python Revision & Hotel System Login Module Planning"
 date: 2025-06-24
 categories: [daily-log, python, project]
 ---
-
+yes
 ## ✅ What I Did Today
 
 ### 📌 Python Revision
