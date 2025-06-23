@@ -89,4 +89,4 @@ This blog is my public learning log where I will:
 Thanks for visiting my blog!  
 Stay tuned for daily updates, code walkthroughs, and real project logs.
 
-🔗 Live Blog: [https://arpitasingh.github.io](https://arpitasingh.github.io)
+🔗 Live Blog: [https://arpitasingh31.github.io](https://arpitasingh31.github.io)
