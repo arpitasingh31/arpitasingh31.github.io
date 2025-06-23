@@ -3,3 +3,8 @@ description: "Daily logs of my learning journey in Software Development and Data
 author: Arpita Singh
 email: arpitasi3332@gmail.com
 theme: jekyll-theme-minimal
+# Site navigation (menu)
+header_pages:
+  - index.md
+  - blog-setup.md
+  - about.md
