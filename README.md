@@ -1,4 +1,4 @@
-
+Helllllo Learnersss
 # Code & Analyze: My Dev Journey 🚀
 
 This is my daily blog where I share everything I’m learning as I work toward becoming a Software Developer and Data Analyst. From Python projects and web development to SQL, data cleaning, and visualizations—this is where I track it all.
