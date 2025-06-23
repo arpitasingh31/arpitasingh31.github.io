@@ -8,8 +8,7 @@ This is my daily blog where I share everything I’m learning as I work toward b
 📈 Learning Areas: Python, Django, SQL, Power BI, Data Analysis
 
 ---
-layout: post
-title: "Day 1 – Learning Python Basics"
+"Day 1 – Learning Python Basics"
 date: 2025-06-23
 categories: [daily-log, python, software-development]
 ---
@@ -28,7 +27,7 @@ This blog is my public learning log where I will:
 
 ## ✅ What I Did Today
 
-- Created a **GitHub repository**: `arpitasingh.github.io`
+- Created a **GitHub repository**: `arpitasingh31.github.io`
 - Set up **GitHub Pages** using **Jekyll** with the `minima` theme
 - Learned how to write blog posts in **Markdown**
 - Published this first post using Jekyll’s `_posts/` structure
