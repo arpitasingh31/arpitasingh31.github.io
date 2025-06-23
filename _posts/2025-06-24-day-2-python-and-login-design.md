@@ -58,6 +58,6 @@ categories: [daily-log, python, project]
 Thanks for following along!  
 This blog keeps me accountable and helps me reflect daily.
 
-👉 Check out my Day 1 post here: [Day 1 – Blog Setup](https://arpitasingh.github.io/2025/06/23/day-1-blog-setup.html)
+👉 Check out my Day 1 post here: [Day 1 – Blog Setup](https://arpitasingh31.github.io/2025/06/23/day-1-blog-setup.html)
 
-🔗 Blog Homepage: [https://arpitasingh.github.io](https://arpitasingh.github.io)
+🔗 Blog Homepage: [https://arpitasingh31.github.io](https://arpitasingh31.github.io)
